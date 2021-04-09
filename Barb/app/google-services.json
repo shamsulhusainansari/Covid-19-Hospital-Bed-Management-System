@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "267949866626",
+    "project_id": "barb-1b822",
+    "storage_bucket": "barb-1b822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267949866626:android:2112aeac22bed9b9697e9b",
+        "android_client_info": {
+          "package_name": "com.welcomebarb.barb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267949866626-01ml56u1r19k74bjgtciu39msbmqbsj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.welcomebarb.barb",
+            "certificate_hash": "41f49cc116ac74f3dc8cd6c65b6b86348ecbbe95"
+          }
+        },
+        {
+          "client_id": "267949866626-g4uh9ukmvo45cq2oqooh50to5oe58d1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASUo6eXnSKD6y6ucvU8-pqWWuDW1gD2cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267949866626-g4uh9ukmvo45cq2oqooh50to5oe58d1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/bottom_sheet_background"
+    android:id="@+id/relative"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/title"
+        android:padding="15dp"
+        android:text="@string/orderby"
+        android:textColor="@color/black"
+        android:scrollbarSize="18sp"
+        android:textStyle="bold"/>
+    <View
+        android:id="@+id/view"
+        android:layout_below="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginBottom="10dp"
+        android:background="@color/lightGrey"/>
+
+    <Spinner
+        android:id="@+id/spparent"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/view"/>
+    <Spinner
+        android:id="@+id/spparent2"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/spparent"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/shortButton"
+        android:text="@string/sort"
+        android:textAllCaps="false"
+        android:layout_margin="10dp"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/teal_700"
+        android:layout_below="@id/spparent2"
+        android:background="@drawable/rounded_corner_image"/>
+</RelativeLayout>

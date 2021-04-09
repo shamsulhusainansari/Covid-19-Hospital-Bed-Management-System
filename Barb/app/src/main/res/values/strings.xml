@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Barb</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="or">||</string>
+
+    <string name="Terms_of_service">Terms of Service</string>
+    <string name="setting">Setting</string>
+    <string name="logo">Logo</string>
+    <string name="email">Email</string>
+    <string name="cart">Cart</string>
+    <string name="order_history">Order History</string>
+    <string name="share">Share</string>
+    <string name="amount">location</string>
+    <string name="orderby">OrderBy</string>
+    <string name="make_an_appoinment">Make an Appointment</string>
+    <string name="no_of_available_bed">No. of Available Bed :</string>
+    <string name="call">call</string>
+    <string name="sign_out">Sign Out</string>
+
+    <string name="status">Status</string>
+    <string name="sort">Sort</string>
+    <string name="patient_name">Patient Name</string>
+    <string name="submit">Submit</string>
+    <string name="user_image">User Image</string>
+    <string name="enter_your_phone">Enter Your phone</string>
+    <string name="address">Address</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="age">Age</string>
+    <string name="patient_aadhar_no">Patient Aadhar No.</string>
+    <string name="patient_address">Patient Address</string>
+    <string name="explain_each_symptoms_in_detail">Explain each symptoms in detail.</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="hospital_number">Hospital Number</string>
+    <string name="hospital_name">Hospital Name</string>
+    <string name="hospital_address">Hospital Address</string>
+    <string name="hospital_login">Hospital Login</string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="hospital_registration">Hospital Registration</string>
+    <string name="user_login">User Login</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="next">Next</string>
+    <string name="save">Save</string>
+    <string name="state">State</string>
+    <string name="city">City</string>
+    <string name="pincode">Pincode</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="update_bed_detail">Update Bed Detail</string>
+</resources>
